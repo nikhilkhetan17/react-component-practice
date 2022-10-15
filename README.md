@@ -4,7 +4,7 @@
 
 ## What I Learned:
 
-\_In this react application I learned how to break index.html file and covert it into components.
+In this react application I learned how to break index.html file and covert it into components.
 
 <br>
 
