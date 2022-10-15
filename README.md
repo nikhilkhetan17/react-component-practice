@@ -8,9 +8,7 @@ In this react application I learned how to break index.html file and covert it i
 
 <hr>
 
-### To run this application in your local computer
-
-do `npm install` to install node modules and `npm start` to start the local server.
+To run this application in your local computer do `npm install` to install node modules and `npm start` to start the local server.
 
 <br>
 
